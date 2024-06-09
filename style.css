@@ -1,0 +1,13 @@
+.container {
+    border: 1px solid black;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 25px;
+    column-gap: 25px;
+}
+.box {
+    border: 1px solid red;
+    padding: 10px;
+}
